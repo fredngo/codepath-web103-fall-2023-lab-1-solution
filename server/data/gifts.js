@@ -14,7 +14,7 @@ const giftData = [
       "name": "Lego Flower Bouquet Kit",
       "pricePoint": "$",
       "audience": "Green Thumbs",
-      "image":"https://tinyurl.com/ydpv2bt9",
+      "image":"https://m.media-amazon.com/images/I/81lnPKhwFfL._AC_SX679_.jpg",
       "description":"A gift and fun activity to do together",
       "submittedBy":"Isabel",
       "submittedOn":"2023-02-14T12:32:00"
@@ -34,7 +34,7 @@ const giftData = [
       "name": "Nike Panda Dunks",
       "pricePoint": "$$",
       "audience": "Sneakerheads",
-      "image":"https://tinyurl.com/y9bzv8xd",
+      "image":"https://images.stockx.com/360/Nike-Dunk-Low-Retro-White-Black-PS/Images/Nike-Dunk-Low-Retro-White-Black-PS/Lv2/img36.jpg?fm=avif&w=576",
       "description":"A fan-favorite black and white color-blocking sneaker",
       "submittedBy":"Jason",
       "submittedOn":"2023-03-10T05:23:00"
@@ -44,7 +44,7 @@ const giftData = [
       "name": "Razer Kitty Headset",
       "pricePoint": "$$",
       "audience": "Gamers",
-      "image":"https://tinyurl.com/4pt84wry",
+      "image":"https://m.media-amazon.com/images/I/814WZ5eAFoL._AC_SX679_.jpg",
       "description":"Create the purrfect gaming look with your own killer kitty style",
       "submittedBy":"Pixie",
       "submittedOn":"2011-10-10T14:48:00"
